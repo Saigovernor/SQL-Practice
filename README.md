@@ -13,3 +13,5 @@ I used PostgreSQL as my dba to write SQL queries for this challenge.
 ## Case Study 1: [Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)
 ### Entity Relationship Diagram (ERD)
 ![ERD Week 1](https://user-images.githubusercontent.com/118802056/235641793-09208928-7b15-4869-8db1-472733e5a4f0.png)
+<br>
+[My solution](https://github.com/Saigovernor/SQL-Practice/blob/main/Week%201%20Solutions.md)
