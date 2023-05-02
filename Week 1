@@ -1,5 +1,5 @@
-## 1. What is the total amount each customer spent at the restaurant?
-``` sql
+## 1. What is the total amount each customer spent at the restaurant?<br>
+```sql 
 select customer_id, sum(price) total_spent
 from sales s 
 join menu m 
@@ -7,4 +7,5 @@ using(product_id)
 group by customer_id
 order by total_spent
 ```
+
 
