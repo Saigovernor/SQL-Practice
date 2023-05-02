@@ -216,8 +216,8 @@ from final
 group by 1
 order by 1
 ```
-<br>
 | customer    | total_points |
 |-------------|--------------|
 | A           | 1370         |
 | B           | 820          |
+<br>
