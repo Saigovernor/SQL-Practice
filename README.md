@@ -10,6 +10,6 @@ I used PostgreSQL as my dba to write SQL queries for this challenge.
 
 - [Case Study 1](#case-study-1-danny's-diner)
 
-## [Case Study 1: Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)
+## Case Study 1: [Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)
 ### Entity Relationship Diagram (ERD)
-![ERD for week 1 challenge](file:\\\D:\Users\User\Downloads\w1 erd.png)
+![ERD Week 1](https://user-images.githubusercontent.com/118802056/235641793-09208928-7b15-4869-8db1-472733e5a4f0.png)
